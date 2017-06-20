@@ -1,3 +1,3 @@
 print 		
 "hellow word" 	
-p *1..10
+p *1..100
